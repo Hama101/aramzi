@@ -1,0 +1,32 @@
+// user creation
+{
+	"username":"mahouchchef",
+	"email":"notachef@gmail.com",
+	"password":"test2020",
+	"password2":"test2020"
+}
+// profil creation
+{
+    "user":7,
+    "is_chef":true
+}
+//login
+{
+	"username":"postman",
+	"password":"test2020"
+}
+// post creation
+{
+	"user":18,
+	"title":"3ijja xD",
+	"description":"3ijja double 3tham faw7a yser !",
+	"price":7500
+}
+// post update
+{
+	"user":18,
+	"title":"3ijja xD",
+	"description":"3ijja double 3tham faw7a yser !",
+	"price":7500
+}
+//
